@@ -132,8 +132,7 @@ Input:   n*n matrix
       -1  1 -1  1
       -1 -1  1 -1
       -1 -1 -1  1
-Output: 2 (two islands that I have 
-bold in matrix at 1, 1 and 2, 2)
+Output: 1 (Since all 1's are connected together)
 19. Print all the possible subsets of array which adds up to give a sum.
 Input: array{2, 3, 5, 8, 10}
        sum=10
